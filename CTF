@@ -1,3 +1,4 @@
 misc:乱码txt更改文件扩展名，尝试更改为png/jpg格式，就可正确显示flag.     txt和png互相转换一下看看有没有线索（png直接用记事本打开就能看到txt文件了。）
     bpg 格式可以用Bandiview,bpgview,honeyview 等打开查看
     图片隐写：一张图片里面还隐藏了一张图
+        kali-Linux操作系统安装，可以使用foremost命令分离两张图片，即可看到flag.
