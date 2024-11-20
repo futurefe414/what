@@ -5,3 +5,4 @@ misc:乱码txt更改文件扩展名，尝试更改为png/jpg格式，就可正�
          winhex或010 ediror 工具ctrl+F直接开始搜索flag.
      binwalk -e 文件复制过来 =》flag
    word隐写：ctrl+A,右键，字体，取消勾选隐藏文字，看到flag.
+   加密的压缩包：使用ARCHPR工具暴力破解密码（最好能根据已知推断出密码类型、密码长度，然后再进行爆破），再把密码输进去打开.txt文件，就可看到flag.
